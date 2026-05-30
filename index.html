@@ -889,7 +889,6 @@ async function initApp() {
 
   // Show UI immediately with local data
   entries = JSON.parse(localStorage.getItem(STORAGE_KEY) || '[]');
-  loadSampleData();
   render();
 
   // Then sync with cloud
