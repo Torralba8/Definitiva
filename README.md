@@ -1,0 +1,2 @@
+# Definitiva
+Finanzas Edu supabase
